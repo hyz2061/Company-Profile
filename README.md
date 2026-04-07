@@ -1,2 +1,5 @@
-# Company-Profile
-Our company is committed to providing professional and high-quality services to our clients. With rich industry experience and an excellent team, we focus on project development, technical support and customized solutions. We adhere to the principles of integrity, innovation and efficiency, and strive to create long-term value for our customers.
+# Vue 3 + Vite
+
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).

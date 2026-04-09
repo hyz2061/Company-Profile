@@ -4,7 +4,8 @@ import HomeView from '/src/views/Home.vue'
 import About from '/src/views/About.vue'
 import projects from '/src/views/Projects.vue'
 import Contact from '/src/views/Contact.vue'
-import services from '../views/Services.vue';
+import services from '../views/Services.vue'
+import Team from '../views/Team.vue'
 
 const routes = [
   {
@@ -31,6 +32,11 @@ const routes = [
     path:'/Services',
     name:'services',
     component:services
+  },
+   {
+    path:'/Team',
+    name:'Team',
+    component:Team
   }
 ];
 const router = createRouter({

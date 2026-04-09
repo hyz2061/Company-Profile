@@ -26,13 +26,12 @@ const menuItems = [
 </script>
 
 <style scoped>
-/* 样式保持不变，但选择器从 .nav-item.active 变为 router-link 的 active 机制 */
 .nav-container {
   width: 100%;
   display: flex;
   justify-content: center;
   padding: 20px 0;
-  position: fixed; /* 固定在顶部 */
+  position: fixed;
   top: 0;
   z-index: 1000;
 }
@@ -47,7 +46,7 @@ const menuItems = [
 }
 
 .nav-item {
-  text-decoration: none; /* 去掉链接下划线 */
+  text-decoration: none; 
   padding: 10px 22px;
   color: #333;
   transition: 0.3s;

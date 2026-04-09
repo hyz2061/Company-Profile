@@ -4,6 +4,8 @@ import HomeView from '/src/views/Home.vue'
 import About from '/src/views/About.vue'
 import projects from '/src/views/Projects.vue'
 import Contact from '/src/views/Contact.vue'
+import services from '../views/Services.vue';
+
 const routes = [
   {
     path: '/',
@@ -25,6 +27,10 @@ const routes = [
     path:'/Contact',
     name:'contact',
     component:Contact
+  }, {
+    path:'/Services',
+    name:'services',
+    component:services
   }
 ];
 const router = createRouter({

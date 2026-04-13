@@ -68,7 +68,6 @@ const handleSocialClick = (platform) => {
   background: #1a1a1a;
   color: white;
   padding: 40px 40px 20px;
-  margin-top: 60px;
   font-family: 'Poppins', sans-serif;
 }
 

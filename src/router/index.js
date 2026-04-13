@@ -21,6 +21,7 @@ const routes = [
     name:'projects',
     component:projects
   }
+
 ];
 const router = createRouter({
   history: createWebHistory(), 

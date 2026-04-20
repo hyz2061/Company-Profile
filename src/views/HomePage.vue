@@ -1,6 +1,6 @@
 <template>
   <main class="home-page">
-    <!-- 首页主视觉 -->
+    <!-- 首页主视觉lkl -->
     <section class="hero section-box">
       <div class="hero-text">
         <p class="tag">Hero Section</p>
@@ -13,7 +13,7 @@
       </div>
     </section>
 
-    <!-- 服务模块 -->
+    <!-- 服务模块 lkl-->
     <section class="services section-box">
       <h2>Services</h2>
 
@@ -24,7 +24,7 @@
       </div>
     </section>
 
-    <!-- 项目展示模块 -->
+    <!-- 项目展示模块 lkl-->
     <section class="projects section-box">
       <h2>Featured Projects</h2>
 
@@ -35,7 +35,7 @@
       </div>
     </section>
 
-    <!-- 团队模块 -->
+    <!-- 团队模块lkl -->
     <section class="team section-box">
       <h2>Meet the Team</h2>
 

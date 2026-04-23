@@ -53,7 +53,7 @@
           <div class="team-list">
             <div class="team-card">
               <div class="avatar">龙</div>
-              <p>Wang Ming</p>
+              <p>lkl</p>
             </div>
 
             <div class="team-card">

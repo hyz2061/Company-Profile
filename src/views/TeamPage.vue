@@ -1,6 +1,6 @@
 <template>
   <div class="team-page">
-    <!-- 顶部标题渐变区（已删除空白框） -->
+    <!-- 顶部标题区 -->
     <section class="team-hero">
       <div class="hero-content">
         <h1>THE BRIGHT MINDS OF SUMENG TECHNOLOGY</h1>
@@ -16,7 +16,7 @@
           <div class="member-card">
             <div class="avatar"></div>
             <div class="info">
-              <h3>Wang Jing</h3>
+              <h3>Zou Lei</h3>
               <p>Position</p>
               <p class="desc">Short description about team member</p>
             </div>
@@ -24,7 +24,7 @@
           <div class="member-card">
             <div class="avatar"></div>
             <div class="info">
-              <h3>Li Tao</h3>
+              <h3>Wang Ming Xing</h3>
               <p>Position</p>
               <p class="desc">Short description about team member</p>
             </div>
@@ -32,7 +32,7 @@
           <div class="member-card">
             <div class="avatar"></div>
             <div class="info">
-              <h3>Zhang Wei</h3>
+              <h3>Hang Ying Zhi</h3>
               <p>Position</p>
               <p class="desc">Short description about team member</p>
             </div>
@@ -63,7 +63,7 @@
           </div>
         </section>
 
-        <!-- 右侧：边栏（你要加回来的部分） -->
+        <!-- 右侧：边栏 -->
         <aside class="team-sidebar">
           <div class="sidebar-block">
             <h2>JOIN OUR TEAM</h2>
@@ -96,7 +96,7 @@
   flex-direction: column;
 }
 
-/* 顶部渐变标题区 */
+/* 顶部标题区 */
 .team-hero {
   width: 100%;
   padding: 120px 80px;
